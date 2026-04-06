@@ -7,6 +7,7 @@ Por último esto se clona en las instancias que vamos crear ( asi se gastan meno
 Para corre mandamos el comando : 
 ```python manage.py runserver 0.0.0.0:8080```
 Y luego en google se pone:
+
 ```http://localhost:8080/report?code=XYZ999```
 y en el codigo por ahora solo se puede poner'XYZ999' y 'ABC123'
 
