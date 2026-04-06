@@ -12,6 +12,7 @@ y en el codigo por ahora solo se puede poner'XYZ999' y 'ABC123'
 En este archivo esta la informacion que le llega al gestor de reportes 
 
 ## Cosas por hacer 
+
 * Implementar los TODO que estan en el archivo
    ---
    reports/views.py
