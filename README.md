@@ -13,9 +13,12 @@ En este archivo esta la informacion que le llega al gestor de reportes
 
 ## Cosas por hacer 
 
+Hace falta:
+
 * Implementar los TODO que estan en el archivo
-   ---
+   
    reports/views.py
-   ---
+   
+  
 * podemos poner un delay de 100ms (algo pequeño porque sino no cumplimos con latencia) para simular el tiempo que se demora el gestor en obtener la información necesaria (json) del motor de analisis. (El motor de analisis no existe lo simulamos con el json)
 * Hacer las pruebas JMeter
